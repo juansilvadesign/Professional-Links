@@ -2,7 +2,7 @@
 
 <p align="center">
 All my professional links are organized and styled in one link. <br/>
-You can see the website by <a href="https://juanpablodesigner.github.io/Professional-Links/" target="_blank">clicking here.</a>
+You can see the website by <a href="https://juansilvadesign.github.io/Professional-Links/" target="_blank">clicking here.</a>
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ This project was developed with the following technologies:
 
 This Project is a link aggregator that organizes all my professional links and it's personalized with HTML, CSS, and JavaScript to train my coding skills.
 
-- [Access the finished project. Online.](https://juanpablodesigner.github.io/Professional-Links/)
+- [Access the finished project. Online.](https://juansilvadesign.github.io/Professional-Links/)
 
 ## :memo: Licence
 
